@@ -3,26 +3,16 @@
 >  基于vue2的壁纸应用,使用vue-cli搭建项目,使用vue-router做路由管理,
 使用vuex做状态管理,网络请求使用axios.
 
+## 项目演示
+>* GitHub地址: [github](https://github.com/HurTeng/vue-wallpaper)
 
-## 安装
-``` bash
-# 获取项目
-git clone https://github.com/HurTeng/vue-wallpaper.git
+>* Demo地址: [demo](http://wallpaper.hurteng.com) 
 
-# 进入文件夹
-cd vue-wallpaper
+>* 手机扫一扫:
 
-# 安装依赖(npm)
-npm install
+![项目二维码.png](./img/QRcode.png)
 
-# 开启本地服务器(http://localhost:9090)
-npm run dev
-
-# 项目发布
-npm run build
-```
-
-# 项目截图
+## 项目截图
 * 首页
 
 ![home](./img/home.png)
@@ -51,8 +41,25 @@ npm run build
 
 ![imgInfo](./img/imgInfo.png)
 
+## 项目安装
+``` bash
+# 获取项目
+git clone https://github.com/HurTeng/vue-wallpaper.git
 
-### 项目结构
+# 进入文件夹
+cd vue-wallpaper
+
+# 安装依赖(npm)
+npm install
+
+# 开启本地服务器(http://localhost:9090)
+npm run dev
+
+# 项目发布
+npm run build
+```
+
+## 项目结构
 ***
 <pre>
 ├── build              // 构建服务和webpack配置
@@ -70,7 +77,7 @@ npm run build
 │   └── main.js        // Webpack 预编译入口
 </pre>
 
-### Vue组件说明
+## Vue组件
 <pre>
 ├──item              // item内容数据
 │   ├────albumInfo.vue     // 专辑信息
