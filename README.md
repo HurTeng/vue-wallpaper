@@ -24,24 +24,31 @@ npm run build
 
 # 项目截图
 * 首页
+
 ![home](./img/home.png)
 
 * 最新壁纸
+
 ![new](./img/new.png)
 
 * 热门壁纸
+
 ![hot](./img/hot.png)
 
 * 壁纸分类
+
 ![category](./img/category.png)
 
 * 专辑列表
+
 ![album](./img/album.png)
 
 * 专辑详情
+
 ![albumInfo](./img/albumInfo.png)
 
 * 图片详情
+
 ![imgInfo](./img/imgInfo.png)
 
 
